@@ -1,4 +1,4 @@
-setTimeoutsetTimeout(function() {
+setTimeout(function() {
   const urls = [
     'https://youtu.be/0hilvfWb4Bo',
     'https://youtu.be/D9rG-qMahpE',
